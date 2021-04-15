@@ -3,12 +3,14 @@ using namespace std;
 int main() {
 int volume, panjang, lebar, tinggi;
 panjang = 5;
-lebar = 5;
+asd = 5;
 tinggi = 10;
-volume = panjang * lebar * tinggi;
+volume = panjang * asd * tinggi;
 cout << "\n ====== Program Menghitung Volume Balok
 ====== \n\n";
 cout << " Volume Balok= " << volume <<endl;
 cout << "\n
 ============================================= \n\n";
-return 0;}
+cout<<"asdasdasdsa";
+return 0;
+}
